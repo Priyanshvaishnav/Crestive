@@ -32,3 +32,8 @@ Add a username with password credential, ID, Description
 
 ## Pipeline Stage
 ![Pipeline Stage](image.png)
+
+
+
+# EC2 Instance Details
+![EC2 Instance](Screenshot 2024-11-26 205152.png)
