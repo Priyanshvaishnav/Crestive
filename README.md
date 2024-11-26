@@ -19,9 +19,12 @@ Install Flask and Werkzeug (if not already installed) using pip:
 ```bash
 pip install flask werkzeug
 
-
 docker build -t crestive .
-
 docker run -d -p 5000:5000 crestive
 
+```
+For Pipeline, Setup 
+Docker Hub Credentials: Add your Docker Hub credentials in Jenkins:
 
+Go to Manage Jenkins > Manage Credentials.
+Add a username with password credential, ID, Description
