@@ -30,5 +30,5 @@ Go to Manage Jenkins > Manage Credentials.
 Add a username with password credential, ID, Description
 
 
-
+##Pipeline Stage
 ![Pipeline Stage](image.png)
